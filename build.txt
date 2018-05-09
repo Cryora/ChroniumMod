@@ -1,0 +1,3 @@
+author = Cryora and MrSadly
+version = 0.1
+displayName = Chronium

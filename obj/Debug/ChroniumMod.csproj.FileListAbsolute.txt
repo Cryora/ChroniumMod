@@ -1,0 +1,11 @@
+C:\Users\owner\Documents\My Games\Terraria\ModLoader\Mod Sources\ChroniumMod\bin\Debug\ChroniumMod.dll
+C:\Users\owner\Documents\My Games\Terraria\ModLoader\Mod Sources\ChroniumMod\bin\Debug\ChroniumMod.pdb
+C:\Users\owner\Documents\My Games\Terraria\ModLoader\Mod Sources\ChroniumMod\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\owner\Documents\My Games\Terraria\ModLoader\Mod Sources\ChroniumMod\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\owner\Documents\My Games\Terraria\ModLoader\Mod Sources\ChroniumMod\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\owner\Documents\My Games\Terraria\ModLoader\Mod Sources\ChroniumMod\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\owner\Documents\My Games\Terraria\ModLoader\Mod Sources\ChroniumMod\bin\Debug\Terraria.exe
+C:\Users\owner\Documents\My Games\Terraria\ModLoader\Mod Sources\ChroniumMod\obj\Debug\ChroniumMod.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\My Games\Terraria\ModLoader\Mod Sources\ChroniumMod\obj\Debug\ChroniumMod.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\My Games\Terraria\ModLoader\Mod Sources\ChroniumMod\obj\Debug\ChroniumMod.dll
+C:\Users\owner\Documents\My Games\Terraria\ModLoader\Mod Sources\ChroniumMod\obj\Debug\ChroniumMod.pdb
